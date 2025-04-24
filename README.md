@@ -35,7 +35,7 @@ In your intended folder, clone the repo using:
 
 ```bash
 git clone https://github.com/Calebfeliciano/profile-search.git
-cd profile-search
+cd profile-search-clean
 npm install
 ```
 Create a .env file in the root directory and add your GitHub API token:
